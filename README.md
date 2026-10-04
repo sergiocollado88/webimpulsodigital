@@ -32,6 +32,14 @@ An internal sales operations system that connects lead management, pipeline stag
 
 [Read the case study](case-studies/impulso-sales-system.md)
 
+
+### LegalOS / Bufetly - AI-assisted Legal Operations
+A legal operations SaaS/CRM for law firms combining case management, billing, AI-assisted communications, court-portal monitoring, secure credential handling, alerts and role-based access.
+
+**Stack:** Next.js, TypeScript, Supabase/PostgreSQL, AI workflows, WhatsApp/email, RLS/RPCs and server-side encryption.
+
+[Read the case study](case-studies/legalos-bufetly.md)
+
 ### TruckFlow CRM - Fleet Operations Platform
 A role-based operations system for trucking workflows, including loads, drivers, trucks, trailers, diesel, expenses, payroll, brokers, factoring, documents and reporting.
 
